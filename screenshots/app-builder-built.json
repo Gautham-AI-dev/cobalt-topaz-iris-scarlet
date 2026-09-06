@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BuildVizag",
+      "hasCanvas": false,
+      "bodyTextLen": 1200,
+      "bodyTextHash": "9bdaddb2836a947de8d37638f64d13b4b363b2ec3bc6a95c1781ebe7839222ba",
+      "bodyTextPrefix": "BuildVizag Visakhapatnam · one house Open a house on site PLOT A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BuildVizag",
+      "hasCanvas": false,
+      "bodyTextLen": 1200,
+      "bodyTextHash": "9bdaddb2836a947de8d37638f64d13b4b363b2ec3bc6a95c1781ebe7839222ba",
+      "bodyTextPrefix": "BuildVizag Visakhapatnam · one house Open a house on site PLOT A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
